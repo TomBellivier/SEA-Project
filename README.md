@@ -17,3 +17,5 @@ Controls :
 - f : enter follow mode (follow an Otus during its trip)
 
 To Lauch the project, you need to download the whole repository, then modify the "main.py" to specify which version the program will launch (1.0 or 1.1). Then just run the script and let a beautiful world appear in front of your eyes !
+Make sure Pygame is installed in your python environment (through 'pip install pygame' command line). 
+
