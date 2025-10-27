@@ -1,4 +1,5 @@
-Bio-Inspired Behavioral Simulation
+# SEA : Simulation d'ecosystème aléatoire
+Random Ecosystem Simulation
 
 The code is mostly in french.
 
