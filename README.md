@@ -1,4 +1,4 @@
-# SEA : Simulation d'ecosystème aléatoire
+# SEA : Simulation d'écosystème aléatoire
 Random Ecosystem Simulation
 
 The code is mostly in french.
